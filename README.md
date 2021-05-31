@@ -1,16 +1,51 @@
-### Hi there 👋
+<h2 align="center">>! E V i L ♫</h2>
 
-<!--
-**DeVPHPJS/DeVPHPJS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+<p align="center">
+<image src="https://github-readme-stats.vercel.app/api?username=DeVPHPJS&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+</p>
+  
+<h2 align="center">! E V i L ♫<</h2>
+
+<p align="center">
+  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=DeVPHPJS">
+</p>
+  
+  
+<h2 align="center">Languages</h2>
+
+<p align="center">
+  <img alt="emojis" src="https://cdn.discordapp.com/emojis/736610993173692426.gif?v=1">
+  <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5">
+  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript">
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL">
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-000000?style=flat&logo=Swift">
+</p>
+
+
+
+
+<h2 align="center">Discord</h2>
+
+<p align="center">
+  <img alt="Discord" src="https://brandslogos.com/wp-content/uploads/thumbs/discord-logo-vector.svg" width="200" height="200">
+  <p align="center">! E V i L ♫#9999</p>
+</p>
+
+### Hello my name is E V i L ♫  :wave:
+
+
+
 -->
+- :telescope: I’m programmer 
+-------------------------------------------------------------- 
+- :speech_balloon: my hobbies 
+-------------------------------------------------------------- 
+
+
+- :space_invader: my discord server : https://discord.gg/
