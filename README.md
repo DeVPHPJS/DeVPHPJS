@@ -1,4 +1,4 @@
-<h2 align="center">! E V i L ♫</h2>
+<h2 align="center">Anas Ahmed</h2>
 
 
 
@@ -7,7 +7,7 @@
 <image src="https://github-readme-stats.vercel.app/api?username=DeVPHPJS&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
   
-<h2 align="center">! E V i L ♫</h2>
+<h2 align="center">Anas Ahmed</h2>
 
 <p align="center">
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=DeVPHPJS">
@@ -37,7 +37,7 @@
   <p align="center">! E V i L ♫#9999</p>
 </p>
 
-### Hello My Name Is : E V i L ♫  :wave:
+### Hello My Name Is : Anas Ahmed  :wave:
 
 
 
@@ -48,4 +48,4 @@
 -------------------------------------------------------------- 
 
 
-- :space_invader: My Discord Server : https://discord.gg/
+- :space_invader: My Discord Server : https://discord.gg/EVS
