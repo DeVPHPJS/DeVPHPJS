@@ -7,7 +7,7 @@
 <image src="https://github-readme-stats.vercel.app/api?username=DeVPHPJS&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
   
-<h2 align="center">Anas Ahmed</h2>
+<h2 align="center">Details</h2>
 
 <p align="center">
   <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=DeVPHPJS">
@@ -17,7 +17,6 @@
 <h2 align="center">Languages</h2>
 
 <p align="center">
-  <img alt="emojis" src="https://cdn.discordapp.com/emojis/736610993173692426.gif?v=1"><br>
   <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5">
   <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
